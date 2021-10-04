@@ -13,6 +13,10 @@
 .
 |-- README.md
 |-- main.py
+|-- ref
+|   |-- get_applist.ipynb
+|   |-- view_dataset_small_chunk.ipynb
+|   `-- translate_review.ipynb
 `-- requirements.txt
 ```
 
