@@ -12,7 +12,7 @@
 ```
 .
 |-- README.md
-|-- main.py
+|-- BD05_01_데이터수집.ipynb
 |-- ref
 |   |-- get_applist.ipynb
 |   |-- view_dataset_small_chunk.ipynb
@@ -26,9 +26,9 @@
 
 ```
 .
-|-- original_dataset
-|   `-- steam_reviews.csv
-`-- original_dataset
+|-- AllSteamData.csv
+`-- steam_games.csv
 ```
 
-[Download Link](https://drive.google.com/drive/folders/1k7NfTlzOSI0S_NsEQ4lFiDuVKYJldOu6?usp=sharing)
+* [AllSteamData.csv](https://www.kaggle.com/connorwynkoop/steam-monthly-player-data)
+* [steam_games.csv](https://www.kaggle.com/trolukovich/steam-games-complete-dataset)
